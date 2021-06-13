@@ -71,3 +71,4 @@ await table.present()
 log(table.selections) // [0]
 ```
 
+![tracking pixel](https://lynks.cc/uipickertable/track)
